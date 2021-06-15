@@ -1,0 +1,11 @@
+local\testeioasys\JAXRSConfiguration.class
+local\testeioasys\repositorio\RepositorioBase.class
+local\testeioasys\Auxiliar\RespostaPadrao.class
+local\testeioasys\API\APIBase.class
+local\testeioasys\API\ClientREST.class
+local\testeioasys\Auxiliar\StringHelper.class
+local\testeioasys\repositorio\entidade\Cliente.class
+local\testeioasys\repositorio\Transacao.class
+local\testeioasys\repositorio\RepositorioCliente.class
+local\testeioasys\repositorio\ControladorAcesso.class
+local\testeioasys\repositorio\entidade\base\Cliente__Base.class
