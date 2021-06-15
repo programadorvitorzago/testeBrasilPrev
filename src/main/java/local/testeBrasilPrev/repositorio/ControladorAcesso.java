@@ -16,7 +16,7 @@ import javax.persistence.Persistence;
  */
 public class ControladorAcesso {
     
-    private static EntityManagerFactory emf = Persistence.createEntityManagerFactory("TesteIoasys_PU");
+    private static EntityManagerFactory emf = Persistence.createEntityManagerFactory("TesteBrasilPrev_PU");
     private static EntityManager _EntityManager;
     
     public synchronized static EntityManager getGlobalEntityManager()
