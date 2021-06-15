@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.Auxiliar;
+package local.testeBrasilPrev.Auxiliar;
 
 /**
  *
  * @author Vitor
  */
-public class StringHelper {
+public class RespostaPadrao {
     
-    public static boolean isNullOrEmpty(String valor)
-    {
-        return (valor == null) || (valor.length() == 0);
-    }
 }

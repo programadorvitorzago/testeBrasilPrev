@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.API;
+package local.testeBrasilPrev.API;
 
+import local.testeBrasilPrev.repositorio.RepositorioCliente;
 import com.google.gson.Gson;
 import java.util.Date;
 import javax.ejb.Stateless;
@@ -17,9 +18,8 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.Response;
-import local.testeioasys.Auxiliar.StringHelper;
-import local.testeioasys.repositorio.*;
-import local.testeioasys.repositorio.entidade.Cliente;
+import local.testeBrasilPrev.Auxiliar.StringHelper;
+import local.testeBrasilPrev.repositorio.entidade.Cliente;
 
 /**
  *

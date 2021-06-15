@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.repositorio.entidade.base;
+package local.testeBrasilPrev.repositorio.entidade.base;
 
 import java.io.Serializable;
 import java.util.Objects;

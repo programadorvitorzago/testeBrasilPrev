@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.repositorio;
+package local.testeBrasilPrev.repositorio;
 
 import javax.persistence.EntityManager;
 import javax.transaction.Transactional;

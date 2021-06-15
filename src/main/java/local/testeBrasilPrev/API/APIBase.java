@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.API;
+package local.testeBrasilPrev.API;
 
 import com.google.gson.Gson;
 import javax.ws.rs.core.Response;

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package local.testeioasys.repositorio;
+package local.testeBrasilPrev.repositorio;
 
 import javax.persistence.EntityManager;
-import local.testeioasys.repositorio.entidade.Cliente;
+import local.testeBrasilPrev.repositorio.entidade.Cliente;
 
 /**
  *

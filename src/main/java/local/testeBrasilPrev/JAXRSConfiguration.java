@@ -1,8 +1,8 @@
-package local.testeioasys;
+package local.testeBrasilPrev;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
-import local.testeioasys.repositorio.ControladorAcesso;
+import local.testeBrasilPrev.repositorio.ControladorAcesso;
 
 /**
  * Configures JAX-RS for the application.
