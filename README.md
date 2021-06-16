@@ -13,7 +13,7 @@ Métodos:
  - **/API/IsAlive**
    - Retorna "OK" para qualquer requisiçao. Útil para verificar se a API está on-line.
    
- - **/cliente/* **
+ - **/cliente/**
    - API RESTFull para CRUD de cliente.
    
 Exemplos:
