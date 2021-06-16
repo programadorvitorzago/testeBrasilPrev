@@ -3,7 +3,7 @@ API RESTfull para entidade Cliente
 
 ## Execução
 A API está desenvolvido utilizando SpringBoot.
-Para executar execute o arquivo jar na pasta TARGET testeBrasilPrev-0.0.1-SNAPSHOT.jar
+Para inniciar, execute o arquivo jar na pasta TARGET testeBrasilPrev-0.0.1-SNAPSHOT.jar
 ```
 java -jar testeBrasilPrev-0.0.1-SNAPSHOT.jar
 ```
@@ -61,8 +61,5 @@ Remove o cliente de ID = 1
 curl -X DELETE -H 'Content-Type: application/json' -i http://localhost:8080/cliente/1
 ```
    - Retorna status 204, informando que a deleção ocorreu corretamente.
-
-
-
 
 
