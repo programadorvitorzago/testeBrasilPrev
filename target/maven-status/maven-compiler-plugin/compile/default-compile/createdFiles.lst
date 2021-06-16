@@ -1,11 +1,6 @@
-local\testeBrasilPrev\Auxiliar\RespostaPadrao.class
+local\testeBrasilPrev\mainTesteBrasilPrev.class
+local\testeBrasilPrev\controller\ClienteAPIService.class
 local\testeBrasilPrev\repositorio\entidade\base\Cliente__Base.class
 local\testeBrasilPrev\repositorio\entidade\Cliente.class
-local\testeBrasilPrev\JAXRSConfiguration.class
-local\testeBrasilPrev\repositorio\RepositorioBase.class
-local\testeBrasilPrev\API\APIBase.class
-local\testeBrasilPrev\API\ClientREST.class
-local\testeBrasilPrev\repositorio\Transacao.class
-local\testeBrasilPrev\Auxiliar\StringHelper.class
-local\testeBrasilPrev\repositorio\ControladorAcesso.class
+local\testeBrasilPrev\controller\APIUtilService.class
 local\testeBrasilPrev\repositorio\RepositorioCliente.class

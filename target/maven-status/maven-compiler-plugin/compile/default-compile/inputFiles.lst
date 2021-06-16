@@ -1,11 +1,6 @@
 C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\entidade\Cliente.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\API\ClientREST.java
 C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\RepositorioCliente.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\Auxiliar\RespostaPadrao.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\ControladorAcesso.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\JAXRSConfiguration.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\Transacao.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\API\APIBase.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\Auxiliar\StringHelper.java
+C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\mainTesteBrasilPrev.java
+C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\controller\ClienteAPIService.java
 C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\entidade\base\Cliente__Base.java
-C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\repositorio\RepositorioBase.java
+C:\TESTE\JAVA\testeBrasilPrev\src\main\java\local\testeBrasilPrev\controller\APIUtilService.java

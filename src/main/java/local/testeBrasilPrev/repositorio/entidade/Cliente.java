@@ -6,10 +6,6 @@
 package local.testeBrasilPrev.repositorio.entidade;
 
 import javax.persistence.Entity;
-import javax.persistence.Table;
-import javax.transaction.Transactional;
-import javax.transaction.Transactional.TxType;
-import javax.xml.bind.annotation.XmlRootElement;
 import local.testeBrasilPrev.repositorio.entidade.base.Cliente__Base;
 
 /**
@@ -17,9 +13,6 @@ import local.testeBrasilPrev.repositorio.entidade.base.Cliente__Base;
  * @author Vitor
  */
 @Entity
-@Table(name = "tbl_usuario")
-@XmlRootElement
-@Transactional(TxType.REQUIRES_NEW)
 public class Cliente extends Cliente__Base {
     
 }

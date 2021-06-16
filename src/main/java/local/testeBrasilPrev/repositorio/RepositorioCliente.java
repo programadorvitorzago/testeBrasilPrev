@@ -5,22 +5,13 @@
  */
 package local.testeBrasilPrev.repositorio;
 
-import javax.persistence.EntityManager;
 import local.testeBrasilPrev.repositorio.entidade.Cliente;
+import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  *
  * @author Vitor
  */
-public class RepositorioCliente extends RepositorioBase<Cliente>{
-    
-    public RepositorioCliente()
-    {
-        super(Cliente.class);
-    }
+public interface RepositorioCliente extends JpaRepository<Cliente, Long> {
 
-    @Override
-    protected EntityManager getEntityManager() {
-        return ControladorAcesso.getGlobalEntityManager();
-    }
 }
